@@ -1,0 +1,18 @@
+@keyframes move {
+  from {
+    transition: all;
+    transition-property: all;
+    transition-delay: 1s;
+    transition-duration: 3s;
+
+    width: 15%;
+  }
+  to {
+    transition: all;
+    transition-property: all;
+
+    transition-delay: 1s;
+    transition-duration: 3s;
+    width: 60%;
+  }
+}
