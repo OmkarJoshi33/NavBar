@@ -1,8 +1,29 @@
-# React + Vite
+# Responsive Navbar Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains a responsive navigation bar built with React and Tailwind CSS. The navbar includes a hamburger menu for mobile devices, ensuring a user-friendly interface across all screen sizes.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **Responsive Design**: Adapts seamlessly to desktop, tablet, and mobile screens.
+- **Hamburger Menu**: Functional hamburger menu specifically for mobile navigation.
+- **React Components**: Modular and reusable React components for easy maintenance.
+- **Tailwind CSS Styling**: Efficient and customizable styling using Tailwind CSS.
+
+---
+
+## Live Demo
+
+Check out the live demo of the project:
+[Responsive Navbar](https://omkarjoshi33.github.io/NavBar/)
+
+---
+
+## Contact Me
+
+For any questions, suggestions, or collaborations, feel free to reach out:
+
+- **Email**: omkarjoshi1231@gmail.com
+- **LinkedIn**: [Omkar Joshi](https://www.linkedin.com/in/omkar-joshi-776477250/)
+- **GitHub**: [OmkarJoshi33](https://github.com/OmkarJoshi33)
