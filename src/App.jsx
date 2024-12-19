@@ -41,7 +41,6 @@ function App() {
         >
           <button
             className="block fill-white bg-black p-3"
-            onChange={handlechnage}
             onClick={handleclick}
           >
             <GiHamburgerMenu className="flex  bg-inherit size-8 " />
