@@ -6,7 +6,6 @@ function App() {
   const [isOpen, setIsOpen] = useState(false);
   const handleclick = () => {
     setIsOpen(!isOpen);
-    console.log(isOpen);
 
     var x = document.getElementById("Div1");
     var y = document.getElementById("hamburg");
